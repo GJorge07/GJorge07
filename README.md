@@ -8,8 +8,11 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias:
-
-
+<div align="left">
+ <img src="Assets/Pascal_icon.png" alt="Pascal Icon" width="50" height="45" />
+ <img src="https://skillicons.dev/icons?i=linux,github,vscode&theme=dark&perline=4" alt="Linux, GitHub, Visual Studio Code logos" />
+ </div>
+ 
 <br/>
 <br/>
 
@@ -30,5 +33,8 @@
       height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GJorge07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
+<br/>
+
 
 </p>
