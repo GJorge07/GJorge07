@@ -2,7 +2,7 @@
 
 **Hello, Guys**
 
- I am  a first-period Computer Science student at the Federal University of Paraná (UFPR). I want to improve my technological skills to become a qualified professional and to help the technological world with my knowledge. If you want, you can reach me on my linkedin. Thanks!
+ I am  a second-period Computer Science student at the Federal University of Paraná (UFPR). I want to improve my technological skills to become a qualified professional and to help the technological world with my knowledge. If you want, you can reach me on my linkedin. Thanks!
 
 
 ---
