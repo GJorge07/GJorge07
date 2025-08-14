@@ -9,7 +9,7 @@
 
 ### 🤖 Linguagens e Tecnologias:
 <div align="left">
- <img src="Assets/Pascal_icon.png" alt="Pascal Icon" width="50" height="45" />
+ <img src="https://github.com/luiz-mo/luiz-mo/blob/main/Pascal_icon.png" alt="Pascal Icon" width="50" height="45" />
  <img src="https://skillicons.dev/icons?i=linux,github,vscode&theme=dark&perline=4" alt="Linux, GitHub, Visual Studio Code logos" />
  </div>
  
