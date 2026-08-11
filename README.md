@@ -1,6 +1,6 @@
-## 😁Gabriel Jorge
+## Gabriel Jorge
 
- I am  a fourth-period Computer Science student at the Federal University of Paraná (UFPR). I want to improve my technological skills to become a qualified professional and to help the technological world with my knowledge. If you want, you can reach me on my linkedin. Thanks!
+ I am  a fourth-period Computer Science student at the Federal University of Paraná (UFPR). I want to improve my technological skills to become a qualified professional and to help the technological world with my knowledge. If you want, you can reach me on my linkedin.
 
 
 ---
