@@ -1,22 +1,18 @@
-<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+<h1 align="center">Hello, my name is Gabriel 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação na <b>UFPR</b>, focado em <b>engenharia de software</b> e <b>engenharia de IA</b>.<br/>
+  Computer Science Student at Federal University of Paraná <b>UFPR</b> , focused on <b>Software Engineer </b> and  <b>AI Engineer</b>.<br/>
 </p>
 
 ---
 
 
-### 💻 Linguagens
+### 💻 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL"/>
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL"/> </p>
 
-### 🛠️ Ferramentas
+### 🛠️ Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
